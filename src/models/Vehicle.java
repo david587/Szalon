@@ -1,7 +1,7 @@
 package models;
 
 public class Vehicle {
-    String licenseplate;
-    String brand;
-    double price;
+    public String licenseplate;
+    public String brand;
+    public double price;
 }
