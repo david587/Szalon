@@ -19,10 +19,10 @@ public class Maincon{
         ArrayList<Vehicle> vehicles = this.restapi.getVehicles();
         for(Vehicle vehicle: vehicles)
         {
-            System.out.printf("%s\n",
+            System.out.printf("%10s %12s %6.2f\n",
+            vehicle.licenseplate,
             vehicle.brand,
-            vehicle.price,
-            vehicle.licenseplate
+            vehicle.price
             );
         }
     }
