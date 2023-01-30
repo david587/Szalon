@@ -1,0 +1,19 @@
+{
+    "vehicles": [
+        {
+            "licenseplate": "AA-CA-321",
+            "brand": "Audi",
+            "price": "3300"
+        },
+        {
+            "licenseplate": "AA-BA-121",
+            "brand": "Honda",
+            "price": "2400"
+        },
+        {
+            "licenseplate": "AA-CB-231",
+            "brand": "Ford",
+            "price": "2600"
+        }
+    ]
+}
